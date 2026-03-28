@@ -1,2 +1,5 @@
 # Vehicle-Ownership-Transfer-System
 Vehicle Ownership Transfer System
+This program is a professional C++ console application designed to streamline and document the vehicle sale process. By utilizing Object-Oriented Programming (OOP) principles, the software efficiently manages and links data across three primary categories: the seller, the buyer, and the technical specifications of the vehicle. It captures essential details such as registration IDs, chassis numbers, and fuel types, while also providing flexibility by supporting both local CNIC and international passport formats for identity verification.
+
+Beyond simple data entry, the system serves as a verification tool by requiring status checks on tax payments and legal records. Once the information is validated, the program automatically generates a formal "Car Ownership Transfer Ticket." This receipt includes a real-time system timestamp and a unique government-style ID, ensuring that every successful transaction is clearly recorded. This project demonstrates a strong foundation in C++ logic, data structure management, and the practical application of software to solve real-world administrative tasks.
